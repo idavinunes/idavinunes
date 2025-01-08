@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Sou um apaixonado por Tecnologia da Informação e atuo como analista. Com experiência em virtualização (Proxmox, VMware, Hyper-V) e nuvem (AWS, Azure, Google Cloud), estou sempre em busca de novas soluções e desafios no mundo da tecnologia. ☁️💻 <strong>sua stack</strong>.<br>
+ Sou um apaixonado por Tecnologia da Informação e atuo como analista. Com experiência em virtualização (Proxmox, VMware, Hyper-V) e nuvem (AWS, Azure, Google Cloud), estou sempre em busca de novas soluções e desafios no mundo da tecnologia. ☁️💻
+ <strong>sua stack</strong>.<br>
   Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
 
