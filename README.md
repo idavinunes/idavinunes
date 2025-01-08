@@ -1,15 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-✨ Sou um entusiasta de Tecnologia da Informação e atuo como analista. Tenho experiência em:
+ ✨ Sou um entusiasta de Tecnologia da Informação e atuo como analista. Tenho experiência em:
 
-🌐 Virtualização On-premise:
+## 🌐 Virtualização On-premise:
 
 🖥️ Proxmox
 🖥️ VMware
 🖥️ Hyper-V
 
-☁️ Cloud:
+## ☁️ Cloud:
 
 ☁️ AWS
 ☁️ Azure
