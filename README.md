@@ -3,7 +3,7 @@
 <p align="left"> 
 
 # ✨ Sobre Mim
-Sou um entusiasta de Tecnologia da Informação e atuo como analista. Tenho experiência em:
+Sou um entusiasta de Tecnologia, um Curiso em Programação  e atuo como analista. Tenho experiência em:
 
 ## 🌐 Virtualização On-premise
 🖥️ Proxmox | 🖥️ VMware | 🖥️ Hyper-V
