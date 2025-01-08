@@ -8,6 +8,7 @@
 🖥️ Proxmox
 🖥️ VMware
 🖥️ Hyper-V
+
 ☁️ Cloud:
 
 ☁️ AWS
