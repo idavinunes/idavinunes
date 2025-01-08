@@ -3,7 +3,6 @@
 <p align="left"> 
  Sou um apaixonado por Tecnologia da Informação e atuo como analista. Com experiência em virtualização 
  (Proxmox, VMware, Hyper-V) e nuvem (AWS, Azure, Google Cloud), estou sempre em busca de novas soluções e desafios no mundo da tecnologia. ☁️💻
- <strong>sua stack</strong>.<br>
 </p>
 
 <p align="left">
