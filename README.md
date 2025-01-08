@@ -3,9 +3,7 @@
 <p align="left"> 
 
 # ✨ Sobre Mim
-Entusiasta de Tecnologia é Games
-Curiso em Programação  
-Consultor de Tecnologia
+Entusiasta de Tecnologia-Games-Musica  -  Curiso em Programação  -  Consultor de Tecnologia
 
 ## 🌐 Virtualização On-premise
 🖥️ Proxmox | 🖥️ VMware | 🖥️ Hyper-V
