@@ -29,11 +29,22 @@
 
 🛡️ OPNsense
 
+## 💻 Sistemas Operacionais:
+
+🖥️ Windows
+
+🖥️ Linux
+
+🖥️ BSD
+
+🖥️ macOS
+
 
 ## 🚀  💻
 </p>
 
 <p align="left">
+
   <a href="mailto:idavinunes@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:idavinunes@gmail.com" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/idavinunes/" title="LinkedIn">
