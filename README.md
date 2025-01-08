@@ -1,21 +1,36 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- ✨ Sou um entusiasta de Tecnologia da Informação e atuo como analista. Tenho experiência em:
+✨ Sou um entusiasta de Tecnologia da Informação e atuo como analista. Tenho experiência em:
 
 ## 🌐 Virtualização On-premise:
 
 🖥️ Proxmox
+
 🖥️ VMware
+
 🖥️ Hyper-V
 
 ## ☁️ Cloud:
 
 ☁️ AWS
+
 ☁️ Azure
+
 ☁️ Google Cloud
 
-🚀 Estou sempre em busca de novas soluções e desafios no fascinante mundo da tecnologia! 💻
+## 🔥 Firewalls e Roteadores:
+
+🛡️ Iptables
+
+🛡️ MikroTik
+
+🛡️ pfSense
+
+🛡️ OPNsense
+
+
+## 🚀  💻
 </p>
 
 <p align="left">
