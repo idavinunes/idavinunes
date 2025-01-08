@@ -17,7 +17,7 @@ Sou um entusiasta de Tecnologia da Informação e atuo como analista. Tenho expe
 ## 💻 Sistemas Operacionais
 🖥️ Windows | 🖥️ Linux | 🖥️ BSD | 🖥️ macOS
 
-🚀 💻
+ 🚀 💻
 
 </p>
 
