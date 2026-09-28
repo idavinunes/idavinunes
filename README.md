@@ -25,11 +25,20 @@ davi@axis:~$ uptime
 davi@axis:~$ cat /etc/motd
 "Any sufficiently advanced technology is indistinguishable from magic." — Arthur C. Clarke
    ...mas aqui a mágica vem documentada no vault. 🧙‍♂️
+
+davi@axis:~$ ping producao -c 1
+64 bytes from producao: icmp_seq=1 ttl=64 time=0.42 ms · 🟢 tudo no ar
+
+davi@axis:~$ sudo rm -rf /problemas-do-cliente
+[sudo] senha para davi: ********
+removido: 'planilha-que-ninguem-entende.xlsx'
+removido: 'ramal-que-toca-no-vazio'
+removido: 'backup-acho-que-tem'
 ```
 
 ---
 
-### 🧭 O que eu faço
+### 🧭 O que eu faço <sub>(main quest)</sub>
 **Consultoria de tecnologia para empresas, com IA ou sem.** Entro, entendo como o negócio funciona e resolvo onde a tecnologia trava o dinheiro, o tempo ou o atendimento:
 
 1. **Diagnóstico**: olho a operação real antes de propor qualquer ferramenta
@@ -37,7 +46,7 @@ davi@axis:~$ cat /etc/motd
 3. **Implantação**: eu mesmo executo, de ponta a ponta
 4. **Operação**: acompanho, documento e mantenho funcionando
 
-### 🏢 Onde já atuei
+### 🗺️ Mapa do mundo <sub>(onde já atuei)</sub>
 **+20 empresas** atendidas pela **Axisnetworks**, em segmentos bem diferentes:
 
 | Segmento | O que entreguei |
@@ -48,18 +57,28 @@ davi@axis:~$ cat /etc/motd
 | 🏗️ **Construção** | App de gestão de obras em campo, com relatórios e integração financeira |
 | 🏢 **Empresas em geral** | VPN corporativa, firewall, servidores, sites institucionais |
 
-**Alguns números:**
+**📊 Stats do personagem:**
 - **7 empresas** numa central telefônica em nuvem única, migradas de sistemas legados
 - **90 acessos VPN** trocados de OpenVPN para WireGuard
 - **Anos de arquivos** tirados do Dropbox para nuvem própria, com backup automático
 
-### 🩺 Praxys Med
+### 🏆 Boss fights <sub>(achievements desbloqueados)</sub>
+> Problemas reais, resolvidos em produção. Nenhum deu mensagem de erro, e é por isso que eram chefes.
+
+- 🐉 **A chamada que morria sempre aos 32 segundos**: a mensagem SIP passava do tamanho do pacote (MTU) e se fragmentava no caminho. Derrotado encolhendo o SDP.
+- 🔇 **A URA que falava pro nada**: codec G.729 em passthrough deixava anúncio e gravação mudos. Loot: regra permanente de só PCMA/PCMU.
+- 👻 **28% das mensagens invisíveis**: WhatsApp no celular e API oficial ao mesmo tempo. O que saía do celular chegava por um evento que ninguém escutava.
+- 🕳️ **A API que mudou de endereço sem avisar**: o host antigo do ERP virou 403, e o espelho local fazia tudo *parecer* normal. Só a escrita quebrava.
+- 🧟 **O `except: pass`**: o erro que não dá erro é o mais caro. Hoje todo silêncio loga, avisa e tenta de novo.
+- 🌐 **It was DNS.** Sempre é.
+
+### 🩺 Praxys Med <sub>(party de dois: um dev e um médico)</sub>
 Sociedade com um médico para tirar o peso operacional do consultório. Três softwares que se somam:
 - **Atende Praxys**, a porta: CRM e atendimento no WhatsApp
 - **FlowHub**, o motor: bot que agenda consulta e cobra via Pix
 - **Praxys Advisor**, a cabeça: assistente de gestão que cruza agenda, pagamentos e banco
 
-### 🚀 Produtos que nasceram das consultorias
+### 🚀 Side quests que viraram produto
 | Produto | O que resolve | Status |
 |---|---|---|
 | **Atende** | Atendimento no WhatsApp com agentes de IA, multiempresa, com CRM e filas | Em produção |
@@ -107,6 +126,13 @@ Sociedade com um médico para tirar o peso operacional do consultório. Três so
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/idavinunes/idavinunes/output/github-snake-dark.svg" />
+    <img alt="snake comendo as contribuições" src="https://raw.githubusercontent.com/idavinunes/idavinunes/output/github-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 <p align="center">
@@ -116,5 +142,6 @@ Sociedade com um médico para tirar o peso operacional do consultório. Três so
 
 <p align="center">
   <sub>🎸 Fora do terminal: guitarra, louvor e games · ↑ ↑ ↓ ↓ ← → ← → B A</sub><br>
-  <sub>A resposta é 42. A pergunta geralmente é "por que caiu?" 🐧</sub>
+  <sub>A resposta é 42. A pergunta geralmente é "por que caiu?" 🐧</sub><br>
+  <sub>Feito com ☕, 🎸 e <code>git push --force</code> (brincadeira: nunca na main)</sub>
 </p>
