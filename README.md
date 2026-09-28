@@ -16,6 +16,14 @@
 ### 🏢 O negócio
 A **Axisnetworks** assume a operação de tecnologia de pequenas e médias empresas de ponta a ponta — rede, telefonia, servidores, backup e sistemas. Quando um problema se repete em vários clientes, ele vira produto.
 
+### 🩺 Praxys Med
+Sociedade com um médico para tirar o peso operacional do consultório. Três softwares que se somam:
+- **Atende Praxys** — a porta: CRM e atendimento no WhatsApp
+- **FlowHub** — o motor: bot que agenda consulta e cobra via Pix
+- **Praxys Advisor** — a cabeça: assistente de gestão que cruza agenda, pagamentos e banco
+
+Regra da casa: antes de construir, conferir se já existe no sistema do cliente — integrar, não duplicar.
+
 ### 🚀 Produtos próprios
 | Produto | O que resolve | Status |
 |---|---|---|
