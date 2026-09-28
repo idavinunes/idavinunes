@@ -1,8 +1,8 @@
 <h1 align="center">Davi Nunes</h1>
 
 <p align="center">
-  <b>Fundador da Axisnetworks · Consultor de Tecnologia</b><br>
-  Construo e opero a TI de empresas — e os produtos de software que nascem dessa operação.
+  <b>Consultor de Tecnologia para Empresas · Fundador da Axisnetworks</b><br>
+  Tecnologia que resolve o negócio, com IA ou sem: do diagnóstico à operação.
 </p>
 
 <p align="center">
@@ -13,36 +13,50 @@
 
 ---
 
-### 🏢 O negócio
-A **Axisnetworks** assume a operação de tecnologia de pequenas e médias empresas de ponta a ponta — rede, telefonia, servidores, backup e sistemas. Quando um problema se repete em vários clientes, ele vira produto.
+### 🧭 O que eu faço
+**Consultoria de tecnologia para empresas, com IA ou sem.** Entro, entendo como o negócio funciona e resolvo onde a tecnologia trava o dinheiro, o tempo ou o atendimento:
+
+1. **Diagnóstico**: olho a operação real antes de propor qualquer ferramenta
+2. **Plano**: prioridades por impacto e custo, com usar o que já existe antes de construir
+3. **Implantação**: eu mesmo executo, de ponta a ponta
+4. **Operação**: acompanho, documento e mantenho funcionando
+
+### 🏢 Onde já atuei
+**+20 empresas** atendidas pela **Axisnetworks**, em segmentos bem diferentes:
+
+| Segmento | O que entreguei |
+|---|---|
+| 🩺 **Saúde**: clínicas, laboratório, academia | Atendimento de pacientes no WhatsApp com IA, agendamento e cobrança automáticos, telefonia em nuvem |
+| 💳 **Crédito e consignado** | Assinatura digital de contratos, migração de arquivos para nuvem própria com backup, telefonia |
+| 🛒 **Varejo**: lojas físicas, redes | Integração com ERP (Bling), redes multi-link, Wi-Fi gerenciado, gestão de manutenção |
+| 🏗️ **Construção** | App de gestão de obras em campo, com relatórios e integração financeira |
+| 🏢 **Empresas em geral** | VPN corporativa, firewall, servidores, sites institucionais |
+
+**Alguns números:**
+- **7 empresas** numa central telefônica em nuvem única, migradas de sistemas legados
+- **90 acessos VPN** trocados de OpenVPN para WireGuard
+- **Anos de arquivos** tirados do Dropbox para nuvem própria, com backup automático
 
 ### 🩺 Praxys Med
 Sociedade com um médico para tirar o peso operacional do consultório. Três softwares que se somam:
-- **Atende Praxys** — a porta: CRM e atendimento no WhatsApp
-- **FlowHub** — o motor: bot que agenda consulta e cobra via Pix
-- **Praxys Advisor** — a cabeça: assistente de gestão que cruza agenda, pagamentos e banco
+- **Atende Praxys**, a porta: CRM e atendimento no WhatsApp
+- **FlowHub**, o motor: bot que agenda consulta e cobra via Pix
+- **Praxys Advisor**, a cabeça: assistente de gestão que cruza agenda, pagamentos e banco
 
-Regra da casa: antes de construir, conferir se já existe no sistema do cliente — integrar, não duplicar.
-
-### 🚀 Produtos próprios
+### 🚀 Produtos que nasceram das consultorias
 | Produto | O que resolve | Status |
 |---|---|---|
-| **Atende** | Atendimento no WhatsApp com agentes de IA — multi-tenant, CRM, filas | Em produção |
+| **Atende** | Atendimento no WhatsApp com agentes de IA, multiempresa, com CRM e filas | Em produção |
 | **AssinaturaMaster** | Assinatura digital de contratos com cobrança integrada | Em produção |
 | **WorkLyons** | Gestão de obras: fases, visitas, relatórios | Em implantação |
-| **Fluxus** | Camada de operação sobre o ERP Bling para varejo | Em implantação |
+| **Fluxus** | Ordem de serviço virando pedido no ERP Bling, para varejo | Em implantação |
 
-### 📡 Operação que eu sustento
-- **Telefonia em nuvem multi-tenant** — vários clientes num PABX único (FusionPBX/FreeSWITCH), com migração de sistemas legados
-- **Redes corporativas** — MikroTik multi-WAN, UniFi, VPN WireGuard substituindo dezenas de contas OpenVPN
-- **Dados e continuidade** — migração de arquivos para nuvem própria (Nextcloud) e backup externo
-- **Deploy próprio** — apps em containers orquestrados no Coolify, na borda da Cloudflare
-
-### 🧭 Como eu trabalho
-- **Determinismo primeiro** — a regra fica no código, não no prompt. IA opera, humano supervisiona.
-- **Uma fonte de verdade** — todo processo documentado e versionado; qualquer pessoa ou agente continua de onde parou.
-- **Produção é sagrada** — nada irreversível sem validação; ambiente de teste permanente antes do cliente.
-- **Produto nasce da operação** — só construo o que já dói em cliente real.
+### 💡 Como eu trabalho
+- **O problema vem antes da ferramenta**: IA só onde ela resolve melhor que um processo simples
+- **Integrar, não duplicar**: se o sistema do cliente já faz, eu uso o que já existe
+- **A regra fica no código, não no prompt**: IA opera, humano supervisiona
+- **Produção é sagrada**: nada irreversível sem validação e ambiente de teste
+- **Tudo documentado**: o cliente nunca fica refém de quem implantou
 
 ---
 
