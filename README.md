@@ -1,6 +1,10 @@
 <h1 align="center">Davi Nunes</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=900&color=36BCF7&center=true&vCenter=true&width=620&lines=%24+sudo+resolva-o-neg%C3%B3cio+--com-ia+--ou-sem;It's+not+DNS.+There's+no+way+it's+DNS...+It+was+DNS.;There's+no+place+like+127.0.0.1+%F0%9F%8F%A0;Already+tried+turning+it+off+and+on+again%3F" alt="typing"/>
+</p>
+
+<p align="center">
   <b>Consultor de Tecnologia para Empresas · Fundador da Axisnetworks</b><br>
   Tecnologia que resolve o negócio, com IA ou sem: do diagnóstico à operação.
 </p>
@@ -10,6 +14,18 @@
   <a href="mailto:idavinunes@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
   <a href="https://api.whatsapp.com/send?phone=5521965528916"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
+
+```bash
+davi@axis:~$ whoami
+consultor de tecnologia · fundador da axisnetworks · dev nas horas vagas (que não existem)
+
+davi@axis:~$ uptime
++20 empresas atendidas · 0 clientes reféns · load average: café, café, café ☕
+
+davi@axis:~$ cat /etc/motd
+"Any sufficiently advanced technology is indistinguishable from magic." — Arthur C. Clarke
+   ...mas aqui a mágica vem documentada no vault. 🧙‍♂️
+```
 
 ---
 
@@ -51,61 +67,54 @@ Sociedade com um médico para tirar o peso operacional do consultório. Três so
 | **WorkLyons** | Gestão de obras: fases, visitas, relatórios | Em implantação |
 | **Fluxus** | Ordem de serviço virando pedido no ERP Bling, para varejo | Em implantação |
 
-### 💡 Como eu trabalho
+### 📜 Como eu trabalho <sub>(as Leis da Robótica versão Axis)</sub>
 - **O problema vem antes da ferramenta**: IA só onde ela resolve melhor que um processo simples
 - **Integrar, não duplicar**: se o sistema do cliente já faz, eu uso o que já existe
 - **A regra fica no código, não no prompt**: IA opera, humano supervisiona
-- **Produção é sagrada**: nada irreversível sem validação e ambiente de teste
-- **Tudo documentado**: o cliente nunca fica refém de quem implantou
+- **Produção é sagrada**: nada irreversível sem validação e ambiente de teste. `rm -rf` só com OK por escrito
+- **Tudo documentado**: o cliente nunca fica refém de quem implantou. Sem "funciona na minha máquina"
 
 ---
 
-<details>
-<summary><b>🛠️ Stack</b></summary>
+### 🧰 Arsenal
+<sub>*"It's dangerous to go alone! Take this."* 🗡️</sub>
 
-<br>
+**☁️ Infra, cloud e containers**<br>
+<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows,apple,docker,nginx,aws,azure,gcp,cloudflare,raspberrypi&perline=12" />
 
-**Redes & Segurança**<br>
-![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white)
-![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
-![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=flat-square&logo=opnsense&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![iptables](https://img.shields.io/badge/iptables-333333?style=flat-square&logo=linux&logoColor=white)
+**💻 Código e dados**<br>
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,nextjs,react,tailwind,prisma,python,bash,powershell,postgres,redis,mysql,supabase&perline=15" />
 
-**Telefonia VoIP**<br>
-![FusionPBX](https://img.shields.io/badge/FusionPBX-1E88E5?style=flat-square)
-![FreeSWITCH](https://img.shields.io/badge/FreeSWITCH-0B6E99?style=flat-square)
-![Asterisk](https://img.shields.io/badge/Asterisk%20%2F%20Issabel-F68F1E?style=flat-square&logo=asterisk&logoColor=white)
+**🛠️ Ferramentas do dia a dia**<br>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vim,obsidian,grafana,prometheus,vercel&perline=12" />
 
-**Virtualização & Cloud**<br>
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Coolify](https://img.shields.io/badge/Coolify-6B16ED?style=flat-square)
+**🌐 Redes, VoIP, virtualização e IA**<br>
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white)
+![FusionPBX](https://img.shields.io/badge/FusionPBX-1E88E5?style=for-the-badge&logo=voipdotms&logoColor=white)
+![FreeSWITCH](https://img.shields.io/badge/FreeSWITCH-0B6E99?style=for-the-badge)
+![Asterisk](https://img.shields.io/badge/Asterisk-F68F1E?style=for-the-badge&logo=asterisk&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge)
+![Coolify](https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge)
+![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white)
+![GLPI](https://img.shields.io/badge/GLPI-2F3F73?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
-**Desenvolvimento & Automação**<br>
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+---
 
-**Sistemas & Serviços**<br>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square)
-![BSD](https://img.shields.io/badge/BSD-AB2B28?style=flat-square&logo=freebsd&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white)
-![GLPI](https://img.shields.io/badge/GLPI-2F3F73?style=flat-square)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=idavinunes&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idavinunes&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-</details>
-
-<p align="center"><sub>🎸 Fora do terminal: música, games e tecnologia.</sub></p>
+<p align="center">
+  <sub>🎸 Fora do terminal: guitarra, louvor e games · ↑ ↑ ↓ ↓ ← → ← → B A</sub><br>
+  <sub>A resposta é 42. A pergunta geralmente é "por que caiu?" 🐧</sub>
+</p>
